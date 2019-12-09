@@ -1,3 +1,5 @@
+# DICCIONARIOS
+
 # INICIANDO DICCIONARIO
 dicc={"Alemania": "Berlín", "Francia": "París", "Venezuela": "Caracas"}
 
